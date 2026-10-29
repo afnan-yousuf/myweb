@@ -1,3 +1,3 @@
 # Author
 ## ChatGPT
-this is a testing readme file
+This is a Shop Website.
